@@ -38,16 +38,33 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
+
+<a href="https://youtube.com/@ahmadalfrehan" style="background-color: #182c47; padding: 0px; text-decoration: none; border-radius: 5px; display: inline-block; text-align: center;" > 
+  <img src="https://ahmadalfrehan.com/assets/assets/images/logo-05.png" height="35" width="130" alt="ahmadalfrehan's logo"/>
+</a>
+
+
+<a href="https://youtube.com/@ahmadalfrehan">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</a>
+
+<a href="https://instagram.com/ahmadalfrehan">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
+<a href="https://facebook.com/ahmadalfrehan">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+
+<a href="https://linkedin.com/in/ahmadalfrehan">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
+
+</div>
+ 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/ahmadalfrehan/ahmadalfrehan/blob/master/github-user-contribution.svg)
 
 ###
