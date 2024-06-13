@@ -40,8 +40,8 @@
 <div align="left">
 
 
-<a href="https://ahmadalfrehan.com" style="background-color: #182c47; padding: 0px; text-decoration: none; border-radius: 5px; display: inline-block; text-align: center;" > 
-  <img src="https://ahmadalfrehan.com/assets/assets/images/logo-05.png" height="35" width="130" alt="ahmadalfrehan's logo"/>
+<a href="https://ahmadalfrehan.org" style="background-color: #182c47; padding: 0px; text-decoration: none; border-radius: 5px; display: inline-block; text-align: center;" > 
+  <img src="https://ahmadalfrehan.org/assets/assets/images/logo-05.png" height="35" width="130" alt="ahmadalfrehan's logo"/>
 </a>
 
 
